@@ -1,6 +1,7 @@
+from enum import Enum, auto
+
 import numpy as np
 from icecream import ic
-from enum import Enum, auto
 
 
 # ============================================================================ #
